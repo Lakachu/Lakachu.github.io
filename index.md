@@ -1,8 +1,12 @@
 # Wer ist Samweis Gamdschie?
 
-... oder zum ersten Mal mit Remotes arbeiten.
 
-Die(se)index.md im .git-Ordner ist eine MarkDown-Datei und kann auch in GitHub bearbeitet werden. Hierzu gibt es ein MarkDown-CheatSheet auf GitHub. 
+Beschreibung des Charakters Samweis Gamdschie aus dem Roman "Herr der Ringe"
 
-Tipp: Den Branch auch auf GitHub anzeigen lassen, um Fehler zu finden.
+Samweis Gamdschie, genannt Sam, ist Frodos treuer Freund und Begleiter. Er ist von Natur aus sehr neugierig und fasziniert von Elben. Gerne lauscht er ihren Gesaengen und Erzaehlungen. Außerdem liebt er Abenteuergeschichten. 
+
+
+
+
+
 
