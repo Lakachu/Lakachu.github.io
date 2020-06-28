@@ -19,3 +19,7 @@ Samweis Gamdschie, genannt Sam, ist Frodos treuer Freund und Begleiter. Er ist v
 
 > There´s some good in this world, Mr. Frodo, 
 > and it´s worth fighting for.
+
+
+
+<img src="https://imgbin.com/png/0ZXebPWH/samwise-gamgee-frodo-baggins-galadriel-bilbo-baggins-legolas-png"/> 
