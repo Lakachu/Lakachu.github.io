@@ -7,6 +7,12 @@ Samweis Gamdschie, genannt Sam, ist Frodos treuer Freund und Begleiter. Er ist v
 
 
 
+## Charaktereigenschaften
 
+* neugierig
+* fasziniert von Elben
+* liebt Abenteuergeschichten
+* treu
+* mutig
 
 
