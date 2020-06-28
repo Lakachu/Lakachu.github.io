@@ -16,3 +16,6 @@ Samweis Gamdschie, genannt Sam, ist Frodos treuer Freund und Begleiter. Er ist v
 * mutig
 
 
+
+> There´s some good in this world, Mr. Frodo, 
+> and it´s worth fighting for.
